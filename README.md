@@ -28,7 +28,7 @@ Create a algorithm to encode/decode messages using your knowledge of functions, 
 - Create the following files: secret_messages.js
 
 #### Part 1: The encryption algorithm
-- Follow the encoding pattern for the alpahabet
+- Use the following encryption algorithm below
 ```
 a = 4
 e = 3
