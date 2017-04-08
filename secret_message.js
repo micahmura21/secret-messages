@@ -15,7 +15,6 @@ function encodeMessage(message) {
     }
   }
 
-  // console.log('output: ', output);
 }
 
 encodeMessage("Javascript is Amazing");
@@ -36,7 +35,6 @@ function decodeMessage(message) {
       output += message[i];
     }
   }
-  // console.log('output: ', output);
 }
 
 decodeMessage("J4v4scr1pt 1s 4w3s0m3");
