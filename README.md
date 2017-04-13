@@ -11,6 +11,7 @@ Create a algorithm to encode/decode messages using your knowledge of functions, 
 - Bascic knowledge of functions
 - Basic knowledge of conditionals
 - Basic knowledge of for-loops
+
 ### Requirements
 
 - Sublime Text
@@ -38,7 +39,7 @@ o = 0
 
 #### Step 1 - Encoding function
 - Declare a function called "encodeMsg" that takes in one parameter "message".
-- Inside your function declare a variable called "encryptedMsg" and set it's value to an empty string. 
+- Inside your function declare a variable called "encryptedMsg" and set it's value to an empty string.
 - Create a basic for-loop that will loop through the message being passed into your function.
 - Inside your for-loop, write conditional statements that will compare the letters of the message to the encoding algorithm above. If the statement is truthy, it should add the corresponding numeric value for that letter to your encrytedMsg variable, otherwise if falsy, it should add the letter to your variable with no encryption.
 ##### Test your function
